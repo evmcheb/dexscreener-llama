@@ -1,7 +1,7 @@
 {
-  "manifest_version": 2,
+  "manifest_version": 3,
   "name": "DexLlama Script Injector",
-  "description": "This extension injects a script on llama.com",
+  "description": "This extension injects a script on dexscreener.com",
   "version": "1.0",
   "permissions": ["activeTab", "https://dexscreener.com/*"],
   "content_scripts": [
